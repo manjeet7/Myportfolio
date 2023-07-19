@@ -162,9 +162,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Web Shop",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to purchase product, Add to cart , make payments through razorpay and see their products",
     tags: [
       {
         name: "react",
@@ -178,42 +178,50 @@ const projects = [
         name: "tailwind",
         color: "pink-text-gradient",
       },
+      {
+        name: "Redux",
+        color: "green-text-gradient",
+      },
     ],
     image: carrent,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Socioal Media App",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to Connect with users, view estimated salary ranges for positions, and See their posts and also chat with other users",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Redux",
         color: "green-text-gradient",
       },
       {
         name: "scss",
         color: "pink-text-gradient",
       },
+      {
+        name: "Express",
+        color: "green-text-gradient",
+      },
     ],
     image: jobit,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Online Booking",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "Reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Redux",
         color: "green-text-gradient",
       },
       {
